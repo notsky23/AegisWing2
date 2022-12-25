@@ -1,0 +1,12 @@
+This codebase is meant to be run with Python v 3.6
+
+This code base required the following modules:
+matplotlib
+numpy
+scipy
+seaborn
+tabulate
+tensorflow-estimator
+tensorpack
+pytorch
+tkinter
